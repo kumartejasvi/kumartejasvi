@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumartejasvi
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Data Science and Machine Learning.
+- 👀 I’m interested in Python.
+- 🌱 I’ve learnt Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on Real Projects.
 - 📫 Mail:- kumartejasvi12@gmail.com
 
